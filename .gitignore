@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build, CMakeFiles, Makefile
+build
+CMakeFiles
+CMakeCache.txt
+nbproject
+Makefile
+cmake_install.cmake
+
+# System folder
+.directory
